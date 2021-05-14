@@ -1,0 +1,24 @@
+body {
+	background-image: url('menu_bg.jpg');
+	background-repeat: repeat;
+	font-family: "Roboto", "Arial", sans-serif;
+	font-size: 24pt;
+	padding-bottom: 30px;
+	padding-top: 100px;
+	margin: auto;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+
+.presses {
+	background-color: blanchedalmond;
+	border-radius: 10px;
+	color: black;
+	font-family: monospace;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+}
